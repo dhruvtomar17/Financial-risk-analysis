@@ -3,7 +3,8 @@ Author: Dhruv tomar
 
 Objective: A data-driven framework for measuring asset-level risk and optimizing multi-sector portfolio allocation using Python and Modern Portfolio Theory.
 
-Project Overview This repository contains two integrated projects that bridge the gap between theoretical mathematics and real-world financial decision-making.
+Project Overview
+This repository contains two integrated projects that bridge the gap between theoretical mathematics and real-world financial decision-making.
 
 Market Risk Diagnostic (VaR & Volatility) Problem: Standard financial models often underestimate the risk of "Black Swan" events or high-volatility periods in the Indian market.
 
@@ -25,7 +26,7 @@ The "Analyst" Edge: Implemented Weight Constraints (Capping any single asset at 
 
 Key Insight: Demonstrated that while an unconstrained model might "chase" a single winning stock (e.g., HDFC Bank), a constrained model provides a more resilient, defensible strategy for institutional fund management.
 
-Tech Stack & Methodology
+Tech Stack & Methodology:-
 
 Language: Python 3.x
 
@@ -33,7 +34,7 @@ Libraries: Pandas (Data Manipulation), NumPy (Linear Algebra & Matrix Operations
 
 Mathematical Concepts: Log Returns, Covariance Matrices, Geometric Brownian Motion, Monte Carlo Simulations, and Risk-Adjusted Return (Sharpe Ratio).
 
-Repository Structure
+Repository Structure:-
 
 Project_1_Risk_Diagnostics/: Notebooks focusing on single-asset volatility and VaR.
 
