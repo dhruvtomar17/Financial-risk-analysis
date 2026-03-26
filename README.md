@@ -1,9 +1,11 @@
 Quantitative Finance & Risk Management Suite 
+
 Author: Dhruv tomar
 
 Objective: A data-driven framework for measuring asset-level risk and optimizing multi-sector portfolio allocation using Python and Modern Portfolio Theory.
 
-Project Overview
+Project Overview:-
+
 This repository contains two integrated projects that bridge the gap between theoretical mathematics and real-world financial decision-making.
 
 Market Risk Diagnostic (VaR & Volatility) Problem: Standard financial models often underestimate the risk of "Black Swan" events or high-volatility periods in the Indian market.
