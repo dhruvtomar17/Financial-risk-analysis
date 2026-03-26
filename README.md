@@ -1,4 +1,5 @@
-Quantitative Finance & Risk Management Suite Author: Dhruv tomar
+Quantitative Finance & Risk Management Suite 
+Author: Dhruv tomar
 
 Objective: A data-driven framework for measuring asset-level risk and optimizing multi-sector portfolio allocation using Python and Modern Portfolio Theory.
 
