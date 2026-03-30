@@ -38,6 +38,13 @@ Mathematical Concepts: Log Returns, Covariance Matrices, Geometric Brownian Moti
 
 Repository Structure:-
 
-Project_1_Risk_Diagnostics/: Notebooks focusing on single-asset volatility and VaR.
+Project-1: Risk_Diagnostics/: Notebooks focusing on single-asset volatility and VaR.
 
-Project_2_Portfolio_Optimization/: Notebooks focusing on MPT and the Efficient Frontier.
+Project-2: Portfolio_Optimization/: Notebooks focusing on MPT and the Efficient Frontier.
+
+Value at Risk (VaR) using:
+
+Historical method OR Parametric (Normal assumption)
+
+This model helps investors allocate capital efficiently under risk constraints.
+	
